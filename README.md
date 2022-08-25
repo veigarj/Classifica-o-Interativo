@@ -1,4 +1,4 @@
-# Frontend Mentor - Componente de pesquisa interativo
+# Componente de pesquisa interativo
 
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
